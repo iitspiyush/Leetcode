@@ -30,7 +30,7 @@ public:
             
             if(i>0 && nums[i]==nums[i-1]) continue;
 
-            if(nums[i] + k > nums[n-1]) break;
+          
 
             int target = nums[i]+k;
 
