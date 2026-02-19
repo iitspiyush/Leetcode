@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/iitspiyush/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/iitspiyush/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/iitspiyush/Leetcode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/iitspiyush/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/iitspiyush/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/iitspiyush/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/iitspiyush/Leetcode/tree/master/0724-find-pivot-index) |
@@ -59,6 +60,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/iitspiyush/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/iitspiyush/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/iitspiyush/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/iitspiyush/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
