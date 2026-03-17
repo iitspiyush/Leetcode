@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/iitspiyush/Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/iitspiyush/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/iitspiyush/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/iitspiyush/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/iitspiyush/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/iitspiyush/Leetcode/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/iitspiyush/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/iitspiyush/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/iitspiyush/Leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/iitspiyush/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/iitspiyush/Leetcode/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/iitspiyush/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/iitspiyush/Leetcode/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/iitspiyush/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
